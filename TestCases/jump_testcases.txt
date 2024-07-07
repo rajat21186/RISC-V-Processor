@@ -1,0 +1,9 @@
+jal x4, 8
+bgeu x11, x4, 12
+beq x6, x2, 8
+bne x2, x1, 24
+blt x3, x5, 4
+bge x7, x6, 4
+bltu x23, x12, 8
+addi x2, x2, 1
+jalr x8, x0, 4

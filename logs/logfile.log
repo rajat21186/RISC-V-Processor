@@ -1,0 +1,358 @@
+****************************************************************************
+******************************RISCV SIMULATOR*******************************
+Date and Time: Thu Oct 26 22:17:45 2023
+
+
+Cycle 0:
+
+CPU Context:
+PC: 0x0
+The current value of registers:
+Register 0: 0x0
+Register 1: 0x0
+Register 2: 0x0
+Register 3: 0x0
+Register 4: 0x0
+Register 5: 0x0
+Register 6: 0x0
+Register 7: 0x0
+Register 8: 0x0
+Register 9: 0x0
+Register 10: 0x0
+Register 11: 0x0
+Register 12: 0x0
+Register 13: 0x0
+Register 14: 0x0
+Register 15: 0x0
+Register 16: 0x0
+Register 17: 0x0
+Register 18: 0x0
+Register 19: 0x0
+Register 20: 0x0
+Register 21: 0x0
+Register 22: 0x0
+Register 23: 0x0
+Register 24: 0x0
+Register 25: 0x0
+Register 26: 0x0
+Register 27: 0x0
+Register 28: 0x0
+Register 29: 0x0
+Register 30: 0x0
+Register 31: 0x0
+
+****************************************************************************
+Cycle 1:
+
+CPU Context:
+PC: 0x4
+The current value of registers:
+Register 0: 0x0
+Register 1: 0x0
+Register 2: 0x0
+Register 3: 0x0
+Register 4: 0x0
+Register 5: 0x0
+Register 6: 0x0
+Register 7: 0x0
+Register 8: 0x0
+Register 9: 0x0
+Register 10: 0x0
+Register 11: 0x0
+Register 12: 0x0
+Register 13: 0x0
+Register 14: 0x0
+Register 15: 0x0
+Register 16: 0x0
+Register 17: 0x0
+Register 18: 0x0
+Register 19: 0x0
+Register 20: 0x0
+Register 21: 0x0
+Register 22: 0x0
+Register 23: 0x0
+Register 24: 0x0
+Register 25: 0x0
+Register 26: 0x0
+Register 27: 0x0
+Register 28: 0x0
+Register 29: 0x0
+Register 30: 0x0
+Register 31: 0x0
+
+****************************************************************************
+Cycle 2:
+
+CPU Context:
+PC: 0x8
+The current value of registers:
+Register 0: 0x0
+Register 1: 0x0
+Register 2: 0x0
+Register 3: 0x0
+Register 4: 0x0
+Register 5: 0x0
+Register 6: 0x0
+Register 7: 0x0
+Register 8: 0x0
+Register 9: 0x0
+Register 10: 0x0
+Register 11: 0x0
+Register 12: 0x0
+Register 13: 0x0
+Register 14: 0x0
+Register 15: 0x0
+Register 16: 0x0
+Register 17: 0x0
+Register 18: 0x0
+Register 19: 0x0
+Register 20: 0x0
+Register 21: 0x0
+Register 22: 0x0
+Register 23: 0x0
+Register 24: 0x0
+Register 25: 0x0
+Register 26: 0x0
+Register 27: 0x0
+Register 28: 0x0
+Register 29: 0x0
+Register 30: 0x0
+Register 31: 0x0
+
+****************************************************************************
+Cycle 3:
+
+CPU Context:
+PC: 0xc
+The current value of registers:
+Register 0: 0x0
+Register 1: 0x0
+Register 2: 0x0
+Register 3: 0x0
+Register 4: 0x0
+Register 5: 0x0
+Register 6: 0x0
+Register 7: 0x0
+Register 8: 0x0
+Register 9: 0x0
+Register 10: 0x0
+Register 11: 0x0
+Register 12: 0x0
+Register 13: 0x0
+Register 14: 0x0
+Register 15: 0x0
+Register 16: 0x0
+Register 17: 0x0
+Register 18: 0x0
+Register 19: 0x0
+Register 20: 0x0
+Register 21: 0x0
+Register 22: 0x0
+Register 23: 0x0
+Register 24: 0x0
+Register 25: 0x0
+Register 26: 0x0
+Register 27: 0x0
+Register 28: 0x0
+Register 29: 0x0
+Register 30: 0x0
+Register 31: 0x0
+
+****************************************************************************
+Cycle 4:
+
+CPU Context:
+PC: 0x10
+The current value of registers:
+Register 0: 0x0
+Register 1: 0x0
+Register 2: 0x4
+Register 3: 0x0
+Register 4: 0x0
+Register 5: 0x0
+Register 6: 0x0
+Register 7: 0x0
+Register 8: 0x0
+Register 9: 0x0
+Register 10: 0x0
+Register 11: 0x0
+Register 12: 0x0
+Register 13: 0x0
+Register 14: 0x0
+Register 15: 0x0
+Register 16: 0x0
+Register 17: 0x0
+Register 18: 0x0
+Register 19: 0x0
+Register 20: 0x0
+Register 21: 0x0
+Register 22: 0x0
+Register 23: 0x0
+Register 24: 0x0
+Register 25: 0x0
+Register 26: 0x0
+Register 27: 0x0
+Register 28: 0x0
+Register 29: 0x0
+Register 30: 0x0
+Register 31: 0x0
+
+****************************************************************************
+Cycle 5:
+
+CPU Context:
+PC: 0x10
+The current value of registers:
+Register 0: 0x0
+Register 1: 0x0
+Register 2: 0x4
+Register 3: 0x0
+Register 4: 0x10
+Register 5: 0x0
+Register 6: 0x0
+Register 7: 0x0
+Register 8: 0x0
+Register 9: 0x0
+Register 10: 0x0
+Register 11: 0x0
+Register 12: 0x0
+Register 13: 0x0
+Register 14: 0x0
+Register 15: 0x0
+Register 16: 0x0
+Register 17: 0x0
+Register 18: 0x0
+Register 19: 0x0
+Register 20: 0x0
+Register 21: 0x0
+Register 22: 0x0
+Register 23: 0x0
+Register 24: 0x0
+Register 25: 0x0
+Register 26: 0x0
+Register 27: 0x0
+Register 28: 0x0
+Register 29: 0x0
+Register 30: 0x0
+Register 31: 0x0
+
+****************************************************************************
+Cycle 6:
+
+CPU Context:
+PC: 0x10
+The current value of registers:
+Register 0: 0x0
+Register 1: 0x2
+Register 2: 0x4
+Register 3: 0x0
+Register 4: 0x10
+Register 5: 0x0
+Register 6: 0x0
+Register 7: 0x0
+Register 8: 0x0
+Register 9: 0x0
+Register 10: 0x0
+Register 11: 0x0
+Register 12: 0x0
+Register 13: 0x0
+Register 14: 0x0
+Register 15: 0x0
+Register 16: 0x0
+Register 17: 0x0
+Register 18: 0x0
+Register 19: 0x0
+Register 20: 0x0
+Register 21: 0x0
+Register 22: 0x0
+Register 23: 0x0
+Register 24: 0x0
+Register 25: 0x0
+Register 26: 0x0
+Register 27: 0x0
+Register 28: 0x0
+Register 29: 0x0
+Register 30: 0x0
+Register 31: 0x0
+
+****************************************************************************
+Cycle 7:
+
+CPU Context:
+PC: 0x10
+The current value of registers:
+Register 0: 0x0
+Register 1: 0x2
+Register 2: 0x4
+Register 3: 0x0
+Register 4: 0x10
+Register 5: 0x0
+Register 6: 0x0
+Register 7: 0x0
+Register 8: 0x0
+Register 9: 0x0
+Register 10: 0x0
+Register 11: 0x0
+Register 12: 0x0
+Register 13: 0x0
+Register 14: 0x0
+Register 15: 0x0
+Register 16: 0x0
+Register 17: 0x0
+Register 18: 0x0
+Register 19: 0x0
+Register 20: 0x0
+Register 21: 0x0
+Register 22: 0x0
+Register 23: 0x0
+Register 24: 0x0
+Register 25: 0x0
+Register 26: 0x0
+Register 27: 0x0
+Register 28: 0x0
+Register 29: 0x0
+Register 30: 0x0
+Register 31: 0x0
+
+****************************************************************************
+Cycle 8:
+
+CPU Context:
+PC: 0x10
+The current value of registers:
+Register 0: 0x0
+Register 1: 0x2
+Register 2: 0x4
+Register 3: 0x0
+Register 4: 0x10
+Register 5: 0x0
+Register 6: 0x2
+Register 7: 0x0
+Register 8: 0x0
+Register 9: 0x0
+Register 10: 0x0
+Register 11: 0x0
+Register 12: 0x0
+Register 13: 0x0
+Register 14: 0x0
+Register 15: 0x0
+Register 16: 0x0
+Register 17: 0x0
+Register 18: 0x0
+Register 19: 0x0
+Register 20: 0x0
+Register 21: 0x0
+Register 22: 0x0
+Register 23: 0x0
+Register 24: 0x0
+Register 25: 0x0
+Register 26: 0x0
+Register 27: 0x0
+Register 28: 0x0
+Register 29: 0x0
+Register 30: 0x0
+Register 31: 0x0
+
+****************************************************************************
+****************************RISCV SIMULATOR END*****************************
+****************************************************************************
